@@ -74,6 +74,9 @@ git branch -d <branch-name>
 merge conflicts:
 
 
+stuff from branch2
+
+
 
 
 
