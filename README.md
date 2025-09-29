@@ -5,3 +5,11 @@ git log
 
 
 
+
+
+making a new branch:
+git checkout -b new-branch
+git push -u origin new-branch
+
+
+what does -b and -u do?
